@@ -1,1 +1,2 @@
-# HelloWorld
+# Java设计模式
+包含Java设计模式的相关代码，供记录学习使用

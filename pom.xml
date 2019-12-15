@@ -12,6 +12,7 @@
     <modules>
         <module>SingletonPattern</module>
         <module>StrategyPattern</module>
+        <module>ObserverPattern</module>
     </modules>
 
     <properties>

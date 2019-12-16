@@ -13,6 +13,7 @@
         <module>SingletonPattern</module>
         <module>StrategyPattern</module>
         <module>ObserverPattern</module>
+        <module>DecoratorPattern</module>
     </modules>
 
     <properties>

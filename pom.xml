@@ -15,6 +15,7 @@
         <module>ObserverPattern</module>
         <module>DecoratorPattern</module>
         <module>FactoryMethodPattern</module>
+        <module>CommandPattern</module>
     </modules>
 
     <properties>

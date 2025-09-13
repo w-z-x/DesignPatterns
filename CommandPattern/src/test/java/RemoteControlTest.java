@@ -1,10 +1,9 @@
-import org.junit.Test;
+import junit.framework.TestCase;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
-public class RemoteControlTest {
-    @Test
+public class RemoteControlTest extends TestCase {
     public void  testButtonWasPressed() {
         SimpleRemoteControl simpleRemoteControl = new SimpleRemoteControl();
         Light light = mock(Light.class);

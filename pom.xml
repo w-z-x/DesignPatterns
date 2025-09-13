@@ -16,6 +16,8 @@
         <module>DecoratorPattern</module>
         <module>FactoryPattern</module>
         <module>CommandPattern</module>
+        <module>AdapterPattern</module>
+        <module>FacadePattern</module>
     </modules>
 
     <properties>
